@@ -16,7 +16,7 @@ Languages: Solidity, JavaScript
 - Handling NFTs Metadata
 
 ## Technology/Websites used:
-- [React.js](https://reactjs.org/)
+- [Next.js](https://nextjs.org/)
 - [Tailwind](https://tailwindcss.com/)
 - [Alchemy](https://www.alchemy.com/)
 
